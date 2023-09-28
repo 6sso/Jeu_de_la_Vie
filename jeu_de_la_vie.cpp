@@ -108,7 +108,7 @@ for (int i=0; i<WIDTH+2; i++)
 std::cout <<"\n "<< "\n";
 
 
-//boucle principale avec n le nombre de génération d'évolution
+//boucle principale avec NBgene le nombre de génération d'évolution
 for (int n = 0; n<NBgene; n++)
 {
 	std::cout <<"génération " << n << "\n";
